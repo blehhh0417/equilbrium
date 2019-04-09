@@ -5,7 +5,7 @@
 
 
 ### Code examples
-**1. Accessing the compass** 
+**Admin Dashboard** 
  <br><br> 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  
